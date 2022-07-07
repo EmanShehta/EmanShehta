@@ -10,8 +10,7 @@
 - 😄 Pronouns: English and Arabic :gift_heart:
 - 📄 Know about my experiences -->  https://www.linkedin.com/in/eman-shehta-443894219/ :gift_heart: :v:
 ### languages and Tools
-
-![image](https://user-images.githubusercontent.com/101083328/177669227-2ae4ecb1-9f32-4551-827e-4d3fbe3c1ea4.png)
+![image](https://user-images.githubusercontent.com/101083328/177671982-c1b81c92-9c30-4e24-9628-dc3265c7f377.png)
 ![image](https://user-images.githubusercontent.com/101083328/177661088-ad3773fa-e123-4f86-911c-1ad74363f7c0.png)
 ![image](https://user-images.githubusercontent.com/101083328/177661107-08e32ed2-be30-448f-ba9e-490f581b033b.png)
 ![image](https://user-images.githubusercontent.com/101083328/177661149-b5247fc7-933b-4e27-a4ef-ac8d24d7138e.png)
