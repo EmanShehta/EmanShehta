@@ -28,14 +28,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0114_eman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0114_eman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eman shehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eman shehta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkehttps://www.linkedin.com/in/eman-shehta-443894219/din.com/in/eman-shehta-443894219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkehttps://www.linkedin.com/in/eman-shehta-443894219/din.com/in/eman-shehta-443894219/" height="30" width="40" /></a>
 <a href="https://fb.com/eman shehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eman shehta" height="30" width="40" /></a>
 <a href="https://instagram.com/eman_0114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eman_0114" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eman shehta abdelaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eman shehta abdelaziz" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/eman_shehta712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eman_shehta712" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/emanshehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emanshehta" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/e3036768/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/e3036768/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/e3036768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="e3036768" height="30" width="40" /></a>
-<a href="https://discord.gg/EmAn_sHehta#0983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EmAn_sHehta#0983" height="30" width="40" /></a>
+<a href="https://discord.gg/#0983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0983" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
