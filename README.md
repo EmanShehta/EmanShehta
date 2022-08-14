@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanshehta" alt="emanshehta" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/0114_eman" target="blank"><img src="https://img.shields.io/twitter/follow/0114_eman?logo=twitter&style=for-the-badge" alt="0114_eman" /></a> </p>
-<img align ="right" alt="coding" width="250" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<img align ="right" alt="coding" width="400" src="https://c.tenor.com/JbCYU00k_WgAAAAC/anime-type.gif">
 
 
 
@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Fastfindfirm**
 
-- 🤝 I’m looking for help with **Company**
+- 🤝 I’m looking for help with ** Start up Company**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmanShehta](https://github.com/EmanShehta)
 
