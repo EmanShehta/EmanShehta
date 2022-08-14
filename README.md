@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/0114_eman" target="blank"><img src="https://img.shields.io/twitter/follow/0114_eman?logo=twitter&style=for-the-badge" alt="0114_eman" /></a> </p>
 <img align ="right" alt="coding" width="250" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
+
+
 - 🔭 I’m currently working on **Customer based predictive analytics to find the next best offer**
 
 - 🌱 I’m currently learning **Machine Learning**
