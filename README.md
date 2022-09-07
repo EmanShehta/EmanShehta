@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Fastfindfirm**
+- 👯 I’m looking to collaborate with **Fastfindfirm** in My Own Project As intern
 
 - 🤝 I’m looking for help with ** Start up Company**
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAE8sDgTuy0/YL-64KI3t5ozJlGtv9nYvQ/view?utm_content=DAE8sDgTuy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE8sDgTuy0/YL-64KI3t5ozJlGtv9nYvQ/view?utm_content=DAE8sDgTuy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ 2be || !2be 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
