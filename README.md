@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **e3036768@gmail.com 📧 ✌️✌️❤️**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE8sDgTuy0/YL-64KI3t5ozJlGtv9nYvQ/view?utm_content=DAE8sDgTuy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE8sDgTuy0/YL-64KI3t5ozJlGtv9nYvQ/view?utm_content=DAE8sDgTuy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences https://drive.google.com/file/d/1ee88_rq_2Rq2DT6cpPqURUA7RfeB7Slo/view?usp=sharing 
 
 - ⚡ 2be || !2be 
 
