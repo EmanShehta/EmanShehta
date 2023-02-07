@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Data Analysis , Data Science , ML , Statistics , Mathematics**
 
-- 📫 How to reach me **e3036768@gmail.com 📧 ✌️✌️❤️**
+- 📫 How to reach me **emanshehta2001@gmail.com 📧 ✌️✌️❤️**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1ee88_rq_2Rq2DT6cpPqURUA7RfeB7Slo/view?usp=sharing 
 
