@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eman Shehta Abdulaziz Saber</h1>
+<h1 align="center">Hi 👋, I'm Eman Shehta Abdelaziz Saber</h1>
 <h3 align="center">🔭 I’m currently working as Data Scientist ❤️ ✌️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanshehta&label=Profile%20views&color=0e75b6&style=flat" alt="emanshehta" /> </p>
@@ -7,11 +7,11 @@
 
 <img align ="center" alt="coding" width="280" src="https://c.tenor.com/JbCYU00k_WgAAAAC/anime-type.gif">
 
-
+-🌱 I’m currently learning **Advanced Algorithms**
 
 - 🔭 I’m currently working on **Customer based predictive analytics to find the next best offer**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m also currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate with **Fastfindfirm** in My Own Project As intern
 
