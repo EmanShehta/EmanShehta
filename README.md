@@ -7,7 +7,7 @@
 
 <img align ="center" alt="coding" width="280" src="https://c.tenor.com/JbCYU00k_WgAAAAC/anime-type.gif">
 
--🌱 I’m currently learning **Advanced Algorithms**
+- 🌱 I’m currently learning **Advanced Algorithms**
 
 - 🔭 I’m currently working on **Customer based predictive analytics to find the next best offer**
 
