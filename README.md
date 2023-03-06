@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eman Shehta Abdelaziz Saber</h1>
 <h3 align="center">🔭 I’m currently working as Data Scientist ❤️ ✌️</h3>
+<img align ="center" alt="coding" hight=600 width="1000" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanshehta&label=Profile%20views&color=0e75b6&style=flat" alt="emanshehta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanshehta" alt="emanshehta" /></a> </p>
 
-<img align ="center" alt="coding" width="280" src="https://c.tenor.com/JbCYU00k_WgAAAAC/anime-type.gif">
 
 - 🌱 I’m currently learning **Advanced Algorithms**
 
