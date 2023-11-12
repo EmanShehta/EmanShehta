@@ -13,9 +13,9 @@
 
 - 🌱 I’m also currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate with **Fastfindfirm** in My Own Project As intern
+- 👯 I’m looking to collaborate with **ORANGE DIGITAL CENTER** in My Own Project As intern
 
-- 🤝 I’m looking for help with ** Start up Company**
+- 🤝 I’m looking for help with **Backend_Job_Offer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmanShehta](https://github.com/EmanShehta)
 
