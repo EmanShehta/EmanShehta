@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmanShehta](https://github.com/EmanShehta)
 
-- 💬 Ask me about **Data Analysis , Data Science , ML , Statistics , Mathematics**
+- 💬 Ask me about **🎯Aspiring .NET Developer |Passionate Problem-Solver 🚀 Computer Science Student deeply passionate about .NET development and problem-solving. Eager to apply and enhance skills for impactful tech solutions🌟.**
 
 - 📫 How to reach me **emanshehta2001@gmail.com 📧 ✌️✌️❤️**
 
