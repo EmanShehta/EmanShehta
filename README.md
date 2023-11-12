@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced Algorithms**
 
-- 🔭 I’m currently working on **Customer based predictive analytics to find the next best offer**
+- 🔭 I’m currently working on **Back-end Applications**
 
 - 🌱 I’m also currently learning **Machine Learning**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **emanshehta2001@gmail.com 📧 ✌️✌️❤️**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1ee88_rq_2Rq2DT6cpPqURUA7RfeB7Slo/view?usp=sharing 
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1ee88_rq_2Rq2DT6cpPqURUA7RfeB7Slo/view?usp=sharing ](https://drive.google.com/file/d/1kPmcyLzEKthR1N2FA01y6QfLUicO4D0F/view?usp=sharing)**
 
 - ⚡ 2be || !2be 
 
