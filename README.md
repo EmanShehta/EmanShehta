@@ -6,12 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanshehta" alt="emanshehta" /></a> </p>
 
+t **🎯Aspiring .NET Developer |Passionate Problem-Solver 🚀 Computer Science Student deeply passionate about .NET development and problem-solving. Eager to apply and enhance skills for impactful tech solutions🌟.**
 
 - 🌱 I’m currently learning **Advanced Algorithms**
 
 - 🔭 I’m currently working on **Back-end Applications**
 
-- 🌱 I’m also currently learning **Machine Learning**
+- 🌱 I’m also currently learning **Dot-Net Core**
 
 - 👯 I’m looking to collaborate with **ORANGE DIGITAL CENTER** in My Own Project As intern
 
@@ -19,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmanShehta](https://github.com/EmanShehta)
 
-- 💬 Ask me about **🎯Aspiring .NET Developer |Passionate Problem-Solver 🚀 Computer Science Student deeply passionate about .NET development and problem-solving. Eager to apply and enhance skills for impactful tech solutions🌟.**
+- 💬 Ask me about (.net Core) 
 
 - 📫 How to reach me **emanshehta2001@gmail.com 📧 ✌️✌️❤️**
 
