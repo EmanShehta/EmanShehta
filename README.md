@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanshehta" alt="emanshehta" /></a> </p>
 
-t **🎯Aspiring .NET Developer |Passionate Problem-Solver 🚀 Computer Science Student deeply passionate about .NET development and problem-solving. Eager to apply and enhance skills for impactful tech solutions🌟.**
+**🎯Aspiring .NET Developer |Passionate Problem-Solver 🚀 Computer Science Student deeply passionate about .NET development and problem-solving. Eager to apply and enhance skills for impactful tech solutions🌟.**
 
 - 🌱 I’m currently learning **Advanced Algorithms**
 
