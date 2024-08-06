@@ -8,19 +8,19 @@
 
 **🎯Aspiring .NET Developer |Passionate Problem-Solver 🚀 Computer Science Student deeply passionate about .NET development and problem-solving. Eager to apply and enhance skills for impactful tech solutions🌟.**
 
-- 🌱 I’m currently learning **Advanced Algorithms**
+- 🌱 I’m currently&Always learning **Advanced Algorithms**
 
-- 🔭 I’m currently working on **Back-end Applications**
+- 🔭 I’m currently working on **Erp System**
 
-- 🌱 I’m also currently learning **Dot-Net Core**
+- 🌱 I’m also currently learning **Dot-Net & Angular**
 
-- 👯 I’m looking to collaborate with **ORANGE DIGITAL CENTER** in My Own Project As intern
+- 👯 I’m looking to collaborate with **ORANGE DIGITAL CENTER** in My Own Project 
 
-- 🤝 I’m looking for help with **Backend_Job_Offer**
+- 🤝 I’m looking for  being A good dev!
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmanShehta](https://github.com/EmanShehta)
 
-- 💬 Ask me about (.net Core) 
+- 💬 Ask me about (.net Core& angular) 
 
 - 📫 How to reach me **emanshehta2001@gmail.com 📧 ✌️✌️❤️**
 
